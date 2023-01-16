@@ -1,1 +1,1 @@
-# odin-recipes1
+This is my second attempt at the odin-recipes project
